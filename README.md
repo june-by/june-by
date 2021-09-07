@@ -1,7 +1,7 @@
 ### 😊 ByJuun
 
 Ajou Univ Department of Software 3rd Year.   
-Web FrontEnd 
+Web Developer 
 
 ### 🛠 Tech Stack 🛠
 Language   
