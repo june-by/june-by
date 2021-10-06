@@ -11,7 +11,6 @@ Language
 WebFrontEnd  
 <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redux-blueviolet?style=flat-square&logo=Redux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/ReduxSaga-pink?style=flat-square&logo=ReduxSaga&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NextJs-lightgrey?style=flat-square&logo=Next.js&logoColor=white"/></a>    
 WebBackEnd  
 <img src="https://img.shields.io/badge/NodeJs-green?style=flat-square&logo=Node.js&logoColor=white"/></a>
