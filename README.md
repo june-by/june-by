@@ -21,6 +21,9 @@ WebBackEnd
 ### 📧 Email 📧
 <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
 neostgeart@gmail.com
+
+### 📚 Blog 📚
+http://byjuun.com
 <!--
 **BY-juun/BY-juun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
