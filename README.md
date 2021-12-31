@@ -1,6 +1,6 @@
 ### 😊 ByJuun
 
-Ajou Univ Department of Software 3rd Year.   
+Ajou Univ Department of Software  
 Web Developer 
 
 ### 🛠 Tech Stack 🛠
