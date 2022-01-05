@@ -12,7 +12,7 @@ WebFrontEnd
 <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redux-blueviolet?style=flat-square&logo=Redux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NextJs-lightgrey?style=flat-square&logo=Next.js&logoColor=white"/></a>    
-WebBackEnd  
+WebBackEnd    
 <img src="https://img.shields.io/badge/NodeJs-green?style=flat-square&logo=Node.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Express-yellow?style=flat-square&logo=Express&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MYSQL-blue?style=flat-square&logo=MySQL&logoColor=white"/></a>
