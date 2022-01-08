@@ -1,6 +1,7 @@
 ### 😊 ByJuun
 
-Ajou Univ Department of Software  
+Ajou Univ 
+Department of Software  
 Web Developer 
 
 ### 🛠 Tech Stack 🛠
