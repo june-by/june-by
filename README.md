@@ -7,7 +7,7 @@ Web Developer
 ### 🛠 Tech Stack 🛠
 Language   
 <img src="https://img.shields.io/badge/JavaScript-orange?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TypeScript-9cf?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TypeScript-9cf?style=flat-square&logo=TypeScript&logoColor=white"/></a>  
 WebFrontEnd  
 <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redux-blueviolet?style=flat-square&logo=Redux&logoColor=white"/></a>
