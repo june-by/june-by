@@ -18,11 +18,10 @@ WebBackEnd
 <img src="https://img.shields.io/badge/MYSQL-blue?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MongoDB-success?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 
-### 📧 Email 📧
-<img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
+### 📧 Email
 neostgeart@gmail.com
 
-### 📚 Blog 📚
+### 📚 Blog
 http://byjuun.com
 
 
