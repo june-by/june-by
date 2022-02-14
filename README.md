@@ -24,6 +24,9 @@ neostgeart@gmail.com
 
 ### 📚 Blog 📚
 http://byjuun.com
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BY-juun&show_icons=true&theme=algolia)
 <!--
 **BY-juun/BY-juun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
