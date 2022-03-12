@@ -4,6 +4,13 @@
 Ajou Univ 
 Department of Software  
 Web Frontend Developer 
+ 
+<a href="https://byjuun.com/">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-33d98d?style=flat&logo=github&link=https://alpox.kr"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
   
 ### 🛠 Tech Stack 🛠
 
@@ -23,11 +30,7 @@ FrameWork, Library
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BY-juun&show_icons=true&theme=algolia)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BY-juun&theme=dark&stroke=33d98d&currStreakLabel=6C8DE7&sideLabels=6C8DE7&ring=35a2fe&fire=33d98d)](https://git.io/streak-stats)
 
-### 📧 Email
-neostgeart@gmail.com
 
-### 📚 Blog
-http://byjuun.com
 
 
 
