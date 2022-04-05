@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=200&section=header&text=ByJuun&animation=fadeIn&fontColor=F5F5F5&fontSize=50)   
 Ajou Univ 
