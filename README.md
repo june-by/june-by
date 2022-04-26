@@ -28,7 +28,6 @@ FrameWork, Library
 <img src="https://img.shields.io/badge/Recoil-grey?style=flat-square&"/></a>
 <img src="https://img.shields.io/badge/SWR-white?style=flat-square&"/></a> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BY-juun&show_icons=true&theme=algolia)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BY-juun&theme=dark&stroke=33d98d&currStreakLabel=6C8DE7&sideLabels=6C8DE7&ring=35a2fe&fire=33d98d)](https://git.io/streak-stats)
 
 
 
