@@ -24,7 +24,7 @@ FrameWork, Library
 <img src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NextJs-lightgrey?style=flat-square&logo=Next.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redux-blueviolet?style=flat-square&logo=Redux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/RTK-blueviolet?style=flat-square&logo=Redux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/RTKQuery-blueviolet?style=flat-square&logo=Redux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ReactQuery-white?style=flat-square&logo=ReactQuery&logoColor=#FF4154"/></a>
 <img src="https://img.shields.io/badge/Recoil-grey?style=flat-square&"/></a>
 <img src="https://img.shields.io/badge/SWR-white?style=flat-square&"/></a> 
