@@ -31,7 +31,7 @@ FrameWork, Library
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=neostgeart)](https://solved.ac/neostgeart)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BY-juun&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BY-juun&show_icons=true&theme=synthwave)
 
 
 
