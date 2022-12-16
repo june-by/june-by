@@ -30,7 +30,8 @@ FrameWork, Library
 <img src="https://img.shields.io/badge/SWR-white?style=flat-square&"/></a> 
 
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=neostgeart)](https://solved.ac/neostgeart)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BY-juun&show_icons=true&theme=cobalt)
 
 
 
