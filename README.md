@@ -12,3 +12,11 @@
 |Ajou Univ|17.03 ~ 23.02|Department of Software|
 |NAVER CONNECT|	22.07 ~ 22.08|Boostcamp Web・Mobile challenge 7 |
 |NAVER CONNECT|	22.08 ~ 22.12|Boostcamp Web・Mobile membership 7|
+
+## 🧩 Others
+|Activity|Date|
+|----|--------|
+|네이버 부스트캠프 웹 풀스텍 코드 리뷰어|	25.08 ~ 25.11|
+|카카오테크 캠퍼스 3기 FE 멘토|	25.08 ~ 25.11|
+|카카오테크 캠퍼스 3기 FE 코드 리뷰어|25.06 ~ 25.08|
+
